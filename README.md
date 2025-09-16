@@ -8,13 +8,6 @@ Handwriting samples
 
 A late fusion module that combines predictions from both modalities for improved accuracy.
 
-📂 Project Structure
-├── eye.py             # Eye-tracking model (MobileNetV2-based, multi-task)
-├── handwriting.py     # Handwriting model (LeViT-based classifier)
-├── final.py           # Fusion module combining eye-tracking + handwriting
-├── requirements.txt   # Python dependencies (to be created)
-├── README.md          # Project documentation
-
 ⚙️ Requirements
 
 Python 3.8+
